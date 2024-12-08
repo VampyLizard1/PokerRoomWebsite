@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Team - Kaime's Poker Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="employee banner.png" alt="Our Team Banner">
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="people">Our Team</a></li>
+                <li><a href="tech">Technology</a></li>
+                <li><a href="contact">Contact Us</a></li>
+                <li><a href="tables">Open Tables</a></li>
+            </ul>
+        </nav>
+
+        <article>
+            <h1>Meet the Team</h1>
+            <section>
+                <h2>Kaime Sandoe - CEO</h2>
+                <p>Kaime has been a poker enthusiast for over a decade. With a background in business management and a passion for strategy, Kaime founded this poker room to create a space for poker lovers to connect and thrive.</p>
+                <figure>
+                    <img src="kaime.jpg" alt="Kaime Sandoe" width="200">
+                    <figcaption>Kaime Sandoe, Founder and CEO</figcaption>
+                </figure>
+            </section>
+
+            <section>
+                <h2>Our Team</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Role</th>
+                            <th>Years at Kaime's Poker Room</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Sarah Lee</td>
+                            <td>Floor Manager</td>
+                            <td>2</td>
+                        </tr>
+                        <tr>
+                            <td>James Carter</td>
+                            <td>Dealer</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td>Emily Brown</td>
+                            <td>Event Coordinator</td>
+                            <td>1</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </article>
+
+        <aside>
+            <h3>Find Us Here:</h3>
+            <iframe src="https://www.google.com/maps/embed" width="300" height="200" frameborder="0"></iframe>
+            <p>Conveniently located in the heart of New Hampshire!</p>
+        </aside>
+
+        <footer>
+            <p>&copy; 2024 Kaime's Poker Room. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

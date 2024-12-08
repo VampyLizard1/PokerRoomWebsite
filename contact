@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Kaime's Poker Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="contact-banner.jpg" alt="Contact Kaime's Poker Room">
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="people">Our Team</a></li>
+                <li><a href="tech">Technology</a></li>
+                <li><a href="contact">Contact Us</a></li>
+                <li><a href="tables">Open Tables</a></li>
+            </ul>
+        </nav>
+
+        <article>
+            <h1>Contact Us</h1>
+            <p>We'd love to hear from you! Reach out to us through any of the following methods:</p>
+            <ul>
+                <li>Email: <a href="mailto:info@kaimespokerroom.com">info@kaimespokerroom.com</a></li>
+                <li>Phone: (603) 555-1234</li>
+                <li>Address: 123 Poker Avenue, Manchester, NH</li>
+            </ul>
+
+            <h2>Send Us a Message</h2>
+            <iframe src="https://docs.google.com/forms/d/e/your-form-id/viewform" width="100%" height="500" frameborder="0"></iframe>
+        </article>
+
+        <aside>
+            <h3>Follow Us</h3>
+            <p>Stay connected through social media:</p>
+            <ul>
+                <li><a href="https://www.facebook.com/kaimespokerroom" target="_blank">Facebook</a></li>
+                <li><a href="https://www.twitter.com/kaimespokerroom" target="_blank">Twitter</a></li>
+                <li><a href="https://www.instagram.com/kaimespokerroom" target="_blank">Instagram</a></li>
+            </ul>
+        </aside>
+
+        <footer>
+            <p>&copy; 2024 Kaime's Poker Room. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technology - Kaime's Poker Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="technology-banner.jpg" alt="Technology at Kaime's Poker Room">
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="people">Our Team</a></li>
+                <li><a href="tech">Technology</a></li>
+                <li><a href="contact">Contact Us</a></li>
+                <li><a href="tables">Open Tables</a></li>
+            </ul>
+        </nav>
+
+        <article>
+            <h1>Leveraging Technology</h1>
+            <section>
+                <h2>Streamlining Operations</h2>
+                <p>At Kaime's Poker Room, we harness cutting-edge technology to enhance your experience. From tournament scheduling to customer management, technology plays a vital role in our operations.</p>
+                <ul>
+                    <li>**Excel**: Used for creating dynamic tournament schedules.</li>
+                    <li>**Access**: Tracks member data and analytics to better serve our community.</li>
+                    <li>**POS Systems**: Handles seamless transactions for entry fees and refreshments.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Innovative Features</h2>
+                <p>We use professional-grade poker management software to ensure fairness and accuracy during games. Additionally, our tables are equipped with RFID-enabled chips to prevent discrepancies in tracking bets and payouts.</p>
+                <figure>
+                    <img src="poker-tech.jpg" alt="Technology in Poker" width="300">
+                    <figcaption>RFID-enabled chips for precision gaming</figcaption>
+                </figure>
+            </section>
+        </article>
+
+        <aside>
+            <h3>Fun Fact:</h3>
+            <blockquote>"Kaime's Poker Room is the only poker venue in New Hampshire using RFID poker chips for tracking real-time gameplay statistics."</blockquote>
+        </aside>
+
+        <footer>
+            <p>&copy; 2024 Kaime's Poker Room. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

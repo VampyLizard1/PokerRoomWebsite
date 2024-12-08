@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaime's Poker Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="new cropped poker banner.png" alt="Kaime's Poker Room Banner">
+        </header>
+        
+        <nav>
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="people">Our Team</a></li>
+                <li><a href="tech">Technology</a></li>
+                <li><a href="contact">Contact Us</a></li>
+                <li><a href="tables">Open Tables</a></li>
+            </ul>
+        </nav>
+
+        <article>
+            <h1>Welcome to Kaime's Poker Room</h1>
+            <p>Your premier destination for the ultimate poker experience. Whether you're a seasoned pro or just learning the ropes, our poker room offers the perfect blend of excitement, strategy, and community.</p>
+
+            <figure>
+                <img src="poker table.webp" alt="Poker Table" width="300">
+                <figcaption>Our state-of-the-art poker tables</figcaption>
+            </figure>
+
+            <section>
+                <h2>About Us</h2>
+                <p>Founded in 2023 by Kaime Sandoe, our poker room started with a vision to bring the thrill of poker to New Hampshire. From humble beginnings with just a few tables, we've grown into a vibrant community of poker enthusiasts.</p>
+                <p>Our mission is to provide a fun, safe, and professional environment for everyone to enjoy the game they love.</p>
+            </section>
+
+            <section>
+                <h2>Services We Offer</h2>
+                <ul>
+                    <li>Daily Poker Tournaments</li>
+                    <li>Private Events and Parties</li>
+                    <li>Workshops and Strategy Training</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Helpful Resources</h2>
+                <p>Learn more about poker strategies at <a href="https://www.pokerstrategy.com/" target="_blank">PokerStrategy</a> and stay updated on poker news at <a href="https://www.pokernews.com/" target="_blank">PokerNews</a>.</p>
+            </section>
+        </article>
+
+        <aside>
+            <blockquote>"Kaime's Poker Room is where I refined my skills. It's the best place to play and meet like-minded players!" - John D., loyal customer</blockquote>
+            <div class="embed">
+                <iframe src="https://www.instagram.com/embed" width="300" height="100" frameborder="0"></iframe>
+            </div>
+        </aside>
+
+        <footer>
+            <p>&copy; 2024 Kaime's Poker Room. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
